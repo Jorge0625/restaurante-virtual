@@ -1,0 +1,33 @@
+.div-style{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 500px;
+    border-radius: 10px;
+    align-items: center;
+    text-align: center;
+    background: black;
+    color: violet;
+}
+
+.h1-login{
+    text-align: center;
+    padding: 0 0 20px 0;
+    border-bottom: 1px solid silver;
+}
+
+.input-login{
+    
+    align-items: center;
+    text-align: center;
+    right: 200%;
+}
+
+.button-login{
+    background-color: lightblue;
+    color: violet;
+    border-radius: 10px;
+    height: 30px;
+    width: 60px;
+}

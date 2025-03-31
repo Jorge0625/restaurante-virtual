@@ -1,0 +1,69 @@
+{
+  "usuarios": [
+    {
+      "id": "4f6e",
+      "name": "Luis",
+      "age": "20",
+      "gmail": "Luis@gmail.com",
+      "password": "1234",
+      "rol": "admin"
+    },
+    {
+      "id": "e3b8",
+      "name": "barry",
+      "age": "15",
+      "gmail": "barry@.com",
+      "password": "1234"
+    },
+    {
+      "id": "09f7",
+      "name": "lOCO",
+      "age": "20",
+      "gmail": "LOCO@GMAIL.COM",
+      "password": "1234"
+    },
+    {
+      "id": "af7b",
+      "name": "lOCO",
+      "age": "20",
+      "gmail": "LOCO@GMAIL.COM",
+      "password": "1234"
+    },
+    {
+      "id": "70f8",
+      "name": "Pepe",
+      "age": "18",
+      "gmail": "Peter@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "9e56",
+      "name": "Pepe",
+      "age": "18",
+      "gmail": "Peter@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "e21a",
+      "name": "Pepe",
+      "age": "18",
+      "gmail": "Peter@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "7641",
+      "name": "Pepe",
+      "age": "18",
+      "gmail": "Peter@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "b975",
+      "name": "Pepe",
+      "age": "18",
+      "gmail": "Peter@gmail.com",
+      "password": "1234"
+    }
+  ],
+  "platillos": []
+}
