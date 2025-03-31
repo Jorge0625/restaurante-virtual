@@ -17,10 +17,7 @@ function Navbar() {
          <h2 className='H2-1'>Restaurante Don Pinto</h2>
          <h2 className='h2-0'>Bienvenidos!!!</h2>
          <ul ><a className='Navbar' href="/Menu">Menu</a></ul>
-         <ul ><a className='Navbar' href="/">Reservaciones</a></ul>
-         <ul ><a className='Navbar' href="">Dellivery</a></ul>
-         <ul ><a className='Navbar' href="/Contacto">Contacto</a></ul>
-         <ul ><a className='Navbar' href="">Soporte</a></ul>
+         <ul ><a className='Navbar' href="/Reserver">Reservaciones</a></ul>
       </div>
       <br />
       <div className='secundario'>

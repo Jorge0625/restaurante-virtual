@@ -5,7 +5,6 @@ import Home from "../pages/Home";
 import Menu from "../pages/Menu";
 import PrivateRoute from "../components/PrlvateRoute";
 import Admin from "../pages/Admin";
-import Contacto from "../pages/Contacto";
 import Reserver from "../pages/Reserver";
 
 
@@ -21,9 +20,6 @@ function Routing() {
           <Route path="/menu"element={<Menu/>}/>
           <Route path="/admin"element={<PrivateRoute element={<Admin/>} /> }/>
           <Route path="/Resever"element={<Reserver/>} />
-          <Route path="/Contacto"element={<Contacto/>} />
-          
-         
         </Routes>
       </Router>
     </div>
